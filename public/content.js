@@ -1,0 +1,1 @@
+chrome.runtime.sendMessage({action:"fetchData",url:"https://jsonplaceholder.typicode.com/users"},(e=>{e.success?console.log("Response: ",e.data):console.error("Error: ",e.error)}));

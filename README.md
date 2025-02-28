@@ -4,9 +4,9 @@ TypeScript + Webpack で Chrome 拡張機能を開発するデモアプリ
 
 ## 概要
 
-TypeScript と Webpack を用いて拡張機能を作成しました。
-解説記事はこちらです。
-TODO: ここにリンクを貼る
+TypeScript と Webpack を用いて拡張機能を作成しました。  
+解説記事はこちらです。  
+https://note.com/ssltokyo_tech/n/ne8a5a9c2e1e4
 
 #### 今回のデモで実現する動作
 
